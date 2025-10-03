@@ -119,12 +119,23 @@ It tracks **warehouse utilization, transportation costs, sales growth, lead time
 
 ## 🔹 Business Insights
 
-- Warehouses are **underutilized (34%)**, leaving room for optimization.  
-- **Transportation cost peaks in West (0.75M)**, lowest in South Accessories (0.41M).  
-- Sales recovered massively after 2021 → **260% growth (55K → 198K units, 2020–2024)**.  
-- **Accessories** face the longest lead times (16.6 days) → supplier reliability needs improvement.  
-- **Backorders highest in fulfilled orders (77%)** → poor inventory planning.  
-- **Clothing & Electronics (~200K+ each)** dominate stock → risk of excess storage costs.  
+- **Warehouse Utilization is Low (34%)**  
+  Current warehouse usage is only one-third of total capacity, indicating significant underutilization. This suggests opportunities to optimize storage, consolidate warehouses, or reduce idle space to cut costs.
+
+- **High Transportation Costs in West Region (0.75M)**  
+  Logistics expenses are highest in the West, while the South Accessories category has the lowest cost (0.41M). This indicates inefficiencies in freight planning or routing in the West, requiring cost-optimization strategies such as multi-modal transport or regional distribution hubs.
+
+- **Strong Sales Growth (260% from 2020 to 2024)**  
+  Sales recovered dramatically, rising from 55K units in 2020 to 198K units in 2024. This rapid growth underscores the need for scalable operations and robust supply chain processes to meet increasing demand without bottlenecks.
+
+- **Accessories Have the Longest Lead Time (16.6 days)**  
+  The accessory category experiences the highest lead times, pointing to potential supplier delays or inefficiencies. Collaboration with suppliers or implementing just-in-time (JIT) delivery strategies could improve availability.
+
+- **High Backorders in Fulfilled Orders (77%)**  
+  A majority of backorders occur even in orders that were eventually fulfilled, suggesting poor inventory allocation or planning. Real-time tracking and AI-driven demand forecasting can help align stock levels with actual demand.
+
+- **Clothing & Electronics Dominate Stock (~200K+ units each)**  
+  These categories represent the bulk of inventory, increasing the risk of overstocking and higher storage costs. Balanced stock distribution across regions and better inventory forecasting is necessary to manage carrying costs effectively.
 
 ---
 
