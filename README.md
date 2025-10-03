@@ -130,30 +130,27 @@ It tracks **warehouse utilization, transportation costs, sales growth, lead time
 
 #  💡 Business Recommendations
 
-## 1. Improve Warehouse Utilization
+### 1. Improve Warehouse Utilization
 - **Current status:** Only 34% vs. target 70–80%.  
 - **Recommendation:** Consolidate smaller warehouses or lease excess space to third parties to reduce carrying costs.
 
-## 2. Optimize West Region Transportation Costs
+### 2. Optimize West Region Transportation Costs
 - **Current status:** West has the highest logistics cost (0.75M).  
 - **Recommendation:** Negotiate new freight contracts, use multi-modal transport, and explore regional distribution hubs to cut costs.
 
-## 3. Address Lead Time for Accessories
+### 3. Address Lead Time for Accessories
 - **Current status:** Accessories face 16.6 days lead time (highest among categories).  
 - **Recommendation:** Collaborate with suppliers for just-in-time (JIT) deliveries or implement a safety stock strategy to ensure faster availability.
 
-## 4. Reduce Backorder Gaps
+### 4. Reduce Backorder Gaps
 - **Current status:** 77% of backorders occurred in fulfilled orders → poor allocation logic.  
 - **Recommendation:** Implement real-time inventory tracking and AI-based demand forecasting to align stock with demand.
 
-## 5. Balance Category Inventory Levels
+### 5. Balance Category Inventory Levels
 - **Current status:** Clothing & Electronics dominate (~200K+ units per region) → risk of overstocking.  
 - **Furniture:** Understocked in South (148K).  
 - **Recommendation:** Reallocate stock across regions based on historical sales patterns and forecasted demand.
 
-## 6. Leverage Sales Growth (260% in 4 years)
-- **Current status:** Sales are rapidly scaling.  
-- **Recommendation:** Invest in scalable logistics and warehouse automation to handle future demand without bottlenecks.
 
 
    
