@@ -129,14 +129,22 @@ It tracks **warehouse utilization, transportation costs, sales growth, lead time
 ---
 
 ## 💡 Business Recommendations
-# Warehouse & Inventory Metric
-Warehouse Utilization: 34.08% → Warehouses are operating at only one-third of their total capacity, indicating underutilization.
-Current utilization (gauge): 34.08%
-Target utilization: 70–80% → Shows there’s significant room to improve efficiency and optimize space.
-Days Sales of Inventory (DSI): 15.56 days → On average, inventory is sold within ~16 days.
-Indicates fast-moving inventory and lower holding costs.
-Inventory Turnover: 23.47 → Inventory is turned over 23 times per year, reflecting strong movement.
-Suggests good demand and efficient inventory management, but combined with low warehouse utilization, it highlights excess capacity.
+# Warehouse & Inventory Metrics
+
+- **Warehouse Utilization:** 34.08% → Warehouses are operating at only one-third of their total capacity, indicating underutilization.
+
+- **Current utilization (gauge):** 34.08%
+
+- **Target utilization:** 70–80% → Shows there’s significant room to improve efficiency and optimize space.
+
+- **Days Sales of Inventory (DSI):** 15.56 days → On average, inventory is sold within ~16 days.
+
+- **Insight:** Indicates fast-moving inventory and lower holding costs.
+
+- **Inventory Turnover:** 23.47 → Inventory is turned over 23 times per year, reflecting strong movement.
+
+- **Insight:** Suggests good demand and efficient inventory management, but combined with low warehouse utilization, it highlights excess capacity.
+
 
    
 ---
