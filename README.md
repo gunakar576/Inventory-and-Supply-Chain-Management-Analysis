@@ -128,22 +128,32 @@ It tracks **warehouse utilization, transportation costs, sales growth, lead time
 
 ---
 
-## 💡 Business Recommendations
-# Warehouse & Inventory Metrics
+#  💡 Business Recommendations
 
-- **Warehouse Utilization:** 34.08% → Warehouses are operating at only one-third of their total capacity, indicating underutilization.
+## 1. Improve Warehouse Utilization
+- **Current status:** Only 34% vs. target 70–80%.  
+- **Recommendation:** Consolidate smaller warehouses or lease excess space to third parties to reduce carrying costs.
 
-- **Current utilization (gauge):** 34.08%
+## 2. Optimize West Region Transportation Costs
+- **Current status:** West has the highest logistics cost (0.75M).  
+- **Recommendation:** Negotiate new freight contracts, use multi-modal transport, and explore regional distribution hubs to cut costs.
 
-- **Target utilization:** 70–80% → Shows there’s significant room to improve efficiency and optimize space.
+## 3. Address Lead Time for Accessories
+- **Current status:** Accessories face 16.6 days lead time (highest among categories).  
+- **Recommendation:** Collaborate with suppliers for just-in-time (JIT) deliveries or implement a safety stock strategy to ensure faster availability.
 
-- **Days Sales of Inventory (DSI):** 15.56 days → On average, inventory is sold within ~16 days.
+## 4. Reduce Backorder Gaps
+- **Current status:** 77% of backorders occurred in fulfilled orders → poor allocation logic.  
+- **Recommendation:** Implement real-time inventory tracking and AI-based demand forecasting to align stock with demand.
 
-- **Insight:** Indicates fast-moving inventory and lower holding costs.
+## 5. Balance Category Inventory Levels
+- **Current status:** Clothing & Electronics dominate (~200K+ units per region) → risk of overstocking.  
+- **Furniture:** Understocked in South (148K).  
+- **Recommendation:** Reallocate stock across regions based on historical sales patterns and forecasted demand.
 
-- **Inventory Turnover:** 23.47 → Inventory is turned over 23 times per year, reflecting strong movement.
-
-- **Insight:** Suggests good demand and efficient inventory management, but combined with low warehouse utilization, it highlights excess capacity.
+## 6. Leverage Sales Growth (260% in 4 years)
+- **Current status:** Sales are rapidly scaling.  
+- **Recommendation:** Invest in scalable logistics and warehouse automation to handle future demand without bottlenecks.
 
 
    
