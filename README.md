@@ -3,7 +3,7 @@
 
 # 📊 Supply Chain & Inventory Dashboard
 
-This project presents a **Supply Chain & Inventory Analysis Dashboard** built using **SQL & Power BI**.  
+This project presents a **Supply Chain & Inventory Analysis Dashboard** built using ** Power BI**.  
 It tracks **warehouse utilization, transportation costs, sales growth, lead times, backorders, and inventory levels** to identify inefficiencies and support data-driven decisions.  
 
 ---
@@ -128,8 +128,16 @@ It tracks **warehouse utilization, transportation costs, sales growth, lead time
 
 ---
 
-## 🚀 Tools & Tech Used
-- **SQL** → Data extraction & transformation.  
+## 💡 Business Recommendations
+1. **Improve Warehouse Utilization** → Consolidate smaller warehouses or lease excess space to cut costs.  
+2. **Optimize West Region Transportation** → Renegotiate contracts, use multi-modal transport, or add regional hubs.  
+3. **Reduce Accessories Lead Time** → Collaborate with suppliers, adopt **JIT inventory** or safety stock strategy.  
+4. **Fix Backorder Gaps** → Use **real-time inventory tracking** and **AI-based demand forecasting**.  
+5. **Balance Inventory Levels** → Reallocate across regions to avoid overstocking Clothing/Electronics and understocking Furniture.  
+6. **Scale with Growth** → Invest in **automation & logistics systems** to match 260% sales growth.
+   
+---
+## 🚀 Tools & Tech Used 
 - **Power BI** → Dashboard development & visualization.  
 
 ---
