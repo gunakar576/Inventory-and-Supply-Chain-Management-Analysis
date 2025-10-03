@@ -1,7 +1,7 @@
 # Inventory-and-Supply-Chain-Management-Analysis
 
 
-# 📊 Supply Chain & Inventory Dashboard
+# 📊 Project Overview 
 
 This project presents a **Supply Chain & Inventory Analysis Dashboard** built using ** Power BI**.  
 It tracks **warehouse utilization, transportation costs, sales growth, lead times, backorders, and inventory levels** to identify inefficiencies and support data-driven decisions.  
