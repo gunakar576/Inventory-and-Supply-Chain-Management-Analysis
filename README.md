@@ -7,9 +7,6 @@ This project presents a **Supply Chain & Inventory Analysis Dashboard** built us
 It tracks **warehouse utilization, transportation costs, sales growth, lead times, backorders, and inventory levels** to identify inefficiencies and support data-driven decisions.  
 
 ---
-
-
----
 # Warehouse & Inventory Metrics  (KPIs)
 
 ## Warehouse Utilization
